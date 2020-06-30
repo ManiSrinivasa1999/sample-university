@@ -4,7 +4,7 @@
       class="align-center justify-center d-flex flex-column pa-4"
     >
       <span class="text-h2 pa-4 ma-4 font-weight-bold">
-        Academics
+        Programmes
       </span>
       <p class="text-h5">
         Stanford students create and apply knowledge by thinking and <br> doing,
@@ -167,6 +167,5 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss" scoped>
 </style>
